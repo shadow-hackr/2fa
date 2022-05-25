@@ -27,7 +27,7 @@ SOFTWARE.
 
 import requests as req, re
 from bs4 import BeautifulSoup as par
-import spam as sp
+import rich as rich
 
 __import__('os').system('git pull')
 
